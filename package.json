@@ -146,7 +146,7 @@
     "karma-webpack": "^5.0.0",
     "license-checker": "^25.0.1",
     "listr": "^0.14.3",
-    "marked": "^1.2.9",
+    "marked": "^4.0.10",
     "mini-css-extract-plugin": "^2.4.5",
     "mocha": "^8.4.0",
     "node-fetch": "^2.6.6",
